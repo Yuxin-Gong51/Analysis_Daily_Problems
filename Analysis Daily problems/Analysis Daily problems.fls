@@ -1,8 +1,8 @@
-PWD /Users/maxwellgong/Desktop/latex/Analysis Daily problems
+PWD /Users/maxwellgong/Desktop/Analysis_Daily_Problems/Analysis Daily problems
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/maxwellgong/Desktop/latex/Analysis Daily problems/Analysis Daily problems.tex
+INPUT /Users/maxwellgong/Desktop/Analysis_Daily_Problems/Analysis Daily problems/Analysis Daily problems.tex
 OUTPUT Analysis Daily problems.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
