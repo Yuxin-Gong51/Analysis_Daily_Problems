@@ -5,7 +5,7 @@ that can be seen at first year. Including the series, sequence, limits of functi
 for them. Most of them are collected from elementary books in analysis. I will reference them in the `README.md` file.
 
 ## How to use my problem set
-There are both `.tex` file and `.pdf` file in the first folder. Just click it, then you will be able to see the files inside it. The problems are separated day by day. Each day will contain $`7`$ 
+There are both `.tex` file and `.pdf` file in the first folder. Just click it, then you will be able to see the files inside it. The problems are separated day by day. Each day will contain $`5`$ 
 problems. After you learn all the knowledge for the first year analysis, you will be able to complete all of them. If there are any typos or questions in them, please [email me](yg2523@ic.ac.uk).
 
 ## References
